@@ -1,1 +1,2 @@
 tash_test_file
+git stash apply@{0} --index をテスト
