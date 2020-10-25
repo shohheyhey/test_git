@@ -1,0 +1,3 @@
+merge_testです。
+リモートリポジトリを fetch 後、merge_testブランチに merge すると、merge_test ブランチが最新のものになるのか？
+→masterブランチ はmerge前、merge_testブランチはmerge後の状態なのか
